@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textStyle="bold"
+        android:textSize="29sp"
+        android:textColor="#5cdb5e"
+        android:layout_marginBottom="32dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageButton
+            android:id="@+id/btn_buka_varian_kaktus"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="150dp"
+            android:src="@drawable/kaktus"
+            android:scaleType="fitCenter"
+            />
+        <ImageButton
+            android:id="@+id/btn_buka_varian_aglonema"
+            android:padding="16dp"
+            android:layout_margin="8dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="150dp"
+            android:src="@drawable/aglonema"
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pilih_gambar"
+        android:textStyle="italic"
+        android:layout_marginBottom="32dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:letterSpacing="0.2"
+        android:text="@string/lihat_biodata"/>
+
+    <Button
+        android:id="@+id/dialog_button"
+        android:layout_width="198dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="49dp"
+        android:backgroundTint="#5cdb5e"
+        android:textColor="@color/black"
+        android:text="@string/biodata" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Decorative plants</string>
+    <string name="pilih_gambar">(Select image to open gallery)</string>
+    <string name="daftar_ras_judul">List of Plant Variants</string>
+    <string name="kembali">Kembali</string>
+    <string name="kaktus_list_title">List of Cactus Variants</string>
+    <string name="aglonema_list_title">List of Aglonema Variants</string>
+    <string name="kaktus">Kaktus</string>
+    <string name="aglonema">Aglonema</string>
+
+    <string name="lihat_biodata">Press the button to view biodata</string>
+    <string name="biodata">Profile</string>
+    <string name="kelas">class: TI C</string>
+    <string name="namaku">name: SULISTIA ROZIKA</string>
+    <string name="jurusan">major: TECHNICAL INFORMATION</string>
+    <string name="hobi">hobby: Listening to music</string>
+
+    <string name="senilis_nama">Cephalocereus senilis</string>
+    <string name="senilis_asal">Meksiko</string>
+    <string name="senilis_deskripsi">a very strange species of cactus whose trunk is covered by long white hair</string>
+    <string name="grusonii_nama">Echinocactus grusonii</string>
+    <string name="grusonii_asal">Texas</string>
+    <string name="grusonii_deskripsi">the shape resembles a barrel of thorns on the entire surface which is yellow-brown in color</string>
+    <string name="echinofossulocactus_nama">Echinofossulocactus</string>
+    <string name="echinofossulocactus_asal">Meksiko</string>
+    <string name="echinofossulocactus_deskripsi">dark green surrounded by fairly large thorns</string>
+    <string name="ferocactus_nama">Ferocactus</string>
+    <string name="ferocactus_asal">North America</string>
+    <string name="ferocactus_deskripsi">looks quite terrible for the layman, but beautiful in the eyes of plant lovers. This cactus is round in shape with curved stems.</string>
+    <string name="gymnocalycium_nama">Gymnocalycium</string>
+    <string name="gymnocalycium_asal">Brazil</string>
+    <string name="gymnocalycium_deskripsi">resembling a pumpkin with horns as a place for flowers to grow</string>
+
+    <string name="tricolor_nama">Aglonema Tricolor</string>
+    <string name="tricolor_asal">Sumatera</string>
+    <string name="tricolor_deskripsi">Aglonema Tricolor has speckled leaves of three colors, namely dark green, light green and white and pink</string>
+    <string name="suksom_nama">Aglaonema Suksom</string>
+    <string name="suksom_asal">Thailand</string>
+    <string name="suksom_deskripsi">The hallmark of suksom is the red color on the leaves which is so bright and plain with minimal chlorophyll.</string>
+    <string name="pride_nama">Aglaonema pride of Sumatra</string>
+    <string name="pride_asal">Sumatera</string>
+    <string name="pride_deskripsi">This plant has the nickname Pride of Sumatra, which means pride of Sumatra</string>
+    <string name="legacy_nama">Aglaonema Legacy</string>
+    <string name="legacy_asal">Taiwan</string>
+    <string name="legacy_deskripsi">The shape of the legacy leaves is wide at the base, but the tips are still tapered and the veins are contrasting red</string>
+    <string name="silver_nama">Aglaonema Silver Queen</string>
+    <string name="silver_asal">Thailand</string>
+    <string name="silver_deskripsi">The variegated silver-green leaves are lance-shaped that look stunning on short stems</string>
+
+</resources>

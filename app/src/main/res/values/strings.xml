@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tanaman Hias</string>
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Varian Tanaman</string>
+    <string name="kembali">Kembali</string>
+    <string name="kaktus_list_title">Daftar Varian Kaktus</string>
+    <string name="aglonema_list_title">Daftar Varian Aglonema</string>
+    <string name="kaktus">Kaktus</string>
+    <string name="aglonema">Aglonema</string>
+
+    <string name="lihat_biodata">Tekan Tombol untuk melihat biodata</string>
+    <string name="biodata">Profil</string>
+    <string name="kelas">Kelas: TI C</string>
+    <string name="namaku">nama: SULISTIA ROZIKA</string>
+    <string name="jurusan">jurusan: TEKNIK INFORMATIKA</string>
+    <string name="hobi">hobi: Mendengar Musik</string>
+
+    <string name="senilis_nama">Cephalocereus senilis</string>
+    <string name="senilis_asal">Meksiko</string>
+    <string name="senilis_deskripsi">spesies kaktus yang sangat aneh batangnya ditutupi oleh rambut putih panjang</string>
+    <string name="grusonii_nama">Echinocactus grusonii</string>
+    <string name="grusonii_asal">Texas</string>
+    <string name="grusonii_deskripsi">bentuknya menyerupai gentong  duri-duri di seluruh permukaan yang berwarna kuning kecokelatan </string>
+    <string name="echinofossulocactus_nama">Echinofossulocactus</string>
+    <string name="echinofossulocactus_asal">Meksiko</string>
+    <string name="echinofossulocactus_deskripsi">berwarna hijau tua dikelilingi dengan duri yang cukup besar</string>
+    <string name="ferocactus_nama">Ferocactus</string>
+    <string name="ferocactus_asal">Amerika Utara</string>
+    <string name="ferocactus_deskripsi">tampilannya cukup mengerikan untuk orang awam, namun cantik di mata pecinta tanaman. Kaktus ini bentuknya bulat dengan batang berlekuk.</string>
+    <string name="gymnocalycium_nama">Gymnocalycium</string>
+    <string name="gymnocalycium_asal">Brasil</string>
+    <string name="gymnocalycium_deskripsi">menyerupai buah labu dengan tanduk sebagai tempat tumbuhnya bunga</string>
+
+    <string name="tricolor_nama">Aglonema Tricolor</string>
+    <string name="tricolor_asal">Sumatera</string>
+    <string name="tricolor_deskripsi">Aglonema Tricolor memiliki daun berbintik tiga warna yakni hijau tua, hijau muda dan putih serta merah muda</string>
+    <string name="suksom_nama">Aglaonema Suksom</string>
+    <string name="suksom_asal">Thailand</string>
+    <string name="suksom_deskripsi">Ciri khas suksom adalah warna merah pada daun yang begitu menyala dan polos dengan minim klorofil.</string>
+    <string name="pride_nama">Aglaonema pride of Sumatra</string>
+    <string name="pride_asal">Sumatera</string>
+    <string name="pride_deskripsi">Tanaman ini mendapati julukan pride of Sumatera yang berarti kebanggaan Sumatera</string>
+    <string name="legacy_nama">Aglaonema Legacy</string>
+    <string name="legacy_asal">Taiwan</string>
+    <string name="legacy_deskripsi">Bentuk daun legacy melebar di bagian pangkal, namun ujungnya tetap meruncing dan tulang daunnya berwarna merah kontras</string>
+    <string name="silver_nama">Aglaonema Silver Queen</string>
+    <string name="silver_asal">Thailand</string>
+    <string name="silver_deskripsi">Daun beraneka warna perak-hijau berbentuk tombak yang terlihat memukau pada batang pendek</string>
+
+
+</resources>

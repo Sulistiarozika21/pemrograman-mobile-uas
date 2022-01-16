@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingBottom="4dp">
+
+    <ImageView
+        android:id="@+id/row_image_tanaman"
+        android:layout_alignParentRight="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/kaktus_cereus"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/row_image_tanaman"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/row_text_jenis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="kaktus cereus"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/row_text_asal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="amerika"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+</RelativeLayout>
